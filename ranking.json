@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 87.5,
+    "reason": "Passes the stated mandatory checks; strong experience, lowest eligible price, 12-week schedule, and complete team, safety, and monitoring evidence."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 81.35,
+    "reason": "Passes mandatory checks and provides a 13-week schedule, strong team and monitoring evidence, and the longest stated workmanship warranty; price and experience scores trail A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 78.26,
+    "reason": "Passes mandatory checks and provides a 14-week schedule and stated warranties; fewer stated qualifying projects and less explicit safety/monitoring detail reduce its illustrative score."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed; electrical work is assigned to a subcontractor to be confirmed after award, so mandatory compliance needs human clarification."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The completion schedule is undetermined, so a supported timeline score and complete weighted total cannot be calculated; obtain a definite schedule for review."
+  }
+]
